@@ -188,7 +188,7 @@ function Button({
   )
 }
 
-const navItems: { id: Screen icon: IconName label: string }[] = [
+const navItems: { id: Screen; icon: IconName; label: string }[] = [
   { id: "home", icon: "home", label: "Home" },
   { id: "practice", icon: "dumbbell", label: "Practice" },
   { id: "leaderboard", icon: "trophy", label: "Leagues" },
