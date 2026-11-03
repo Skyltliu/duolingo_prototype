@@ -1,0 +1,10 @@
+{
+  "description": "A Duolingo-inspired Spanish practice app helps learners target weak skills, understand mistakes, retry exercises, and track progress.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
